@@ -10,8 +10,11 @@
 |   [@minjeoong](https://github.com/minjeoong)   |  [@osohyun0224](https://github.com/osohyun0224)     |
 
 ## 🛠️ Tech
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,emotion,nodejs&perline="/>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,emotion,nodejs,reactquery&perline="/>
+  </a>
+</p>
 ----
 
 ## 🎯 Vacgom's Frontend Commit Convention
