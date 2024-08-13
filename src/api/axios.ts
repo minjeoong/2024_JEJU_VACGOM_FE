@@ -22,7 +22,7 @@ let firstRequestCancelToken = null;
 const TIMEOUT_TIME = 10_000;
 
 axiosInstance.interceptors.request.use(
-  async (config) => {
+  (config) => {
     firstRequestCancelToken = cancelTokenSource();
     config.cancelToken = firstRequestCancelToken.token;
     config.timeout = TIMEOUT_TIME;
